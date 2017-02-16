@@ -5,7 +5,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Raven Industries -- <role> -- <twitter>
 
 # THANKS
 
